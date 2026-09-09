@@ -2,7 +2,7 @@ from app import app
 from contacts import contacts
 
 #ewfwefwefewqfweqfwef
-
+kjkjlkjlljkbljkbjhk
 app.register_blueprint(contacts)
 
 # starting the app
