@@ -1,6 +1,14 @@
 from app import app
 from contacts import contacts
 
+#cambio de tu compañero 
+
+
+
+
+
+#nerkgnrejgn mil lineas 
+
 app.register_blueprint(contacts)
 
 # starting the app
