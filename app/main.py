@@ -1,6 +1,7 @@
 from app import app
 from contacts import contacts
 
+#ewfwefwefewqfweqfwef
 
 app.register_blueprint(contacts)
 
