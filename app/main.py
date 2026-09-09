@@ -3,8 +3,8 @@ from contacts import contacts
 
 #cambio de tu compañero 
 
-#rgrfgewfwewfewfewfew
-feawfgewfewfewfewewfewf
+#rgrfgewfwewfewfewfew##
+####### jjgljhgjhkgkjgjk
 
 
 #nerkgnrejgn mil lineas 
