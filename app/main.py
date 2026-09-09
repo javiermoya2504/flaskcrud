@@ -1,6 +1,11 @@
 from app import app
 from contacts import contacts
 
+#cambio de juanito perez
+
+
+#####rergregergreg 1000 lineas
+
 
 app.register_blueprint(contacts)
 
