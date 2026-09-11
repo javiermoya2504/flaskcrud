@@ -1,7 +1,7 @@
 from app import app
 from contacts import contacts
 
-
+#ferferferwgferwgergerwgreg
 
 # starting the app
 if __name__ == "__main__":
